@@ -8,7 +8,7 @@ permalink: /post/:title.html
 logo: false
 comments: true
 paginate: 10
-baseurl: /
+baseurl: /blog
 domain_name: 'http://chztv.com'
 url: 'http://chztv.com/blog'
 google_analytics: 'UA-XXXXXXXX-X'
