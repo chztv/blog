@@ -18,4 +18,4 @@ Blog早前从SAE开始往Gitcafe迁移，反正只能说是没空转换老数据
 
 算了，国内的还是不靠谱，还是决定迁移到Github上吧。
 
-等把2013年前的数据迁移完，就把 http://www.chztv.com 整个切换过去，目前还是使用 http://chztv.com/blog 这个域名先。
+等把2013年前的数据迁移完，就把 [http://www.chztv.com](http://www.chztv.com) 整个切换过去，目前还是使用 [http://chztv.com/blog](http://chztv.com/blog) 这个域名先。
