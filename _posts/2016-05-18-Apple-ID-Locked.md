@@ -23,3 +23,6 @@ tags:
 官方支持：https://support.apple.com/zh-cn/HT204106
 
 [![AppleID泄密](http://img7.chztv.com/2016-0406/appleid.jpg!400px)](http://img7.chztv.com/2016-0406/appleid.jpg)
+
+append：
+1）初步查出原因，是我的百度贴吧账号在3月份就已经泄密，被人发了N多小广告，然后封禁。AppleID的账号和百度同一邮箱，密码相同，只是一个字母是大写，非第一个字母，如果百度是源头，能知道这个大写字，并且一次猜对，也是牛B。所以猜测，应该不是靠猜，应该还是有其他泄密渠道。
