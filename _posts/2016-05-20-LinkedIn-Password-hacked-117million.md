@@ -16,4 +16,4 @@ tags:
 
 今天开始继续使用1P了，不再依赖Chrome！！
 
-![LinkedIn泄密](http://img7.chztv.com/2016-0406/LinkedIn.png!400px)](http://img7.chztv.com/2016-0406/LinkedIn.png)
+[![LinkedIn泄密](http://img7.chztv.com/2016-0406/LinkedIn.png!400px)](http://img7.chztv.com/2016-0406/LinkedIn.png)
