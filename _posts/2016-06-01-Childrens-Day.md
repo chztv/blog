@@ -26,6 +26,6 @@ tags:
 
 
 
-<font size="10px">题图 ©Sandra Rvsch/Westend61/Gaopinimages</font>
+> 题图 ©Sandra Rvsch/Westend61/Gaopinimages
 
 
