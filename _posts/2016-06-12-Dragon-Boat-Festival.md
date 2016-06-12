@@ -1,5 +1,5 @@
 ---
-title:端午节小记
+title: 端午节小记
 author: Paul
 layout: post
 categories:
