@@ -14,18 +14,14 @@ tags:
 
 到了酒店，结果还有点小郁闷，后来换房。
 
->![开元九龙湖](http://img.chztv.com/2017-0406/jlh0.jpg)  
->
+>![开元九龙湖](http://img.chztv.com/2017-0406/jlh0.jpg)     
 >酒店的园林
 >
->![九龙湖](http://img.chztv.com/2017-0406/jlh1.jpg)   
->
+>![九龙湖](http://img.chztv.com/2017-0406/jlh1.jpg)    
 >女儿最爱住酒店
 >
 >![九龙湖](http://img.chztv.com/2017-0406/jlh2.jpg)   
->
 >房间还行吧
 >
 >![九龙湖](http://img.chztv.com/2017-0406/jlh3.jpg)   
->
 >海鲜吃起来
