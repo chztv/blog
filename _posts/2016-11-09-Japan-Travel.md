@@ -1,5 +1,5 @@
 ---
-title: 2016日本游记
+title: 日本游
 author: Paul
 layout: post
 categories:
