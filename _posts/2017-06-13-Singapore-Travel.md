@@ -23,9 +23,11 @@ tags:
 >![萧山机场](http://img7.chztv.com/2017-0406/sgp01.jpg!400px)    
 >（波音787）
 
-![二个小美女](http://img7.chztv.com/2017-0406/sgp02.jpg!400px)   
-（两个小美女）
+>![二个小美女](http://img7.chztv.com/2017-0406/sgp02.jpg!400px)   
+>（两个小美女）
 
-![新加坡机场](http://img7.chztv.com/2017-0406/sgp03.jpg!400px)（凌晨4点，到达新加坡樟宜机场）
+>![新加坡机场](http://img7.chztv.com/2017-0406/sgp03.jpg!400px)
+>（凌晨4点，到达新加坡樟宜机场）
 
-![困成狗](http://img7.chztv.com/2017-0406/sgp04.jpg!400px)（到了酒店，大家都困成狗，就地休息）
+>![困成狗](http://img7.chztv.com/2017-0406/sgp04.jpg!400px)
+>（到了酒店，大家都困成狗，就地休息）
